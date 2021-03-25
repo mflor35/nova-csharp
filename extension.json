@@ -1,0 +1,12 @@
+{
+    "identifier": "mflor35.csharp",
+    "name": "C#",
+    "organization": "Miguel Flores Silverio",
+    "description": "C# Syntax and Language Server",
+    "version": "1.0",
+    "categories": ["languages"],
+    "repository": "",
+    "bugs": "",
+    
+    "main": "main.js"
+}
